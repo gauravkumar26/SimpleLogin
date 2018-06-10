@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 you are loged in successfully
+=======
+successful login
+>>>>>>> branch 'master' of https://github.com/gauravkumar26/SimpleLogin.git
 </body>
 </html>

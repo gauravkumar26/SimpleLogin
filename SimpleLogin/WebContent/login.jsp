@@ -10,7 +10,7 @@
 	<form method="post" action="LoginCheck">
 	<table>
 			<tr>
-				<td>USER NAME</td>
+				<td>USER full NAME</td>
 				<td><input type="text" name="uname"></td>
 			</tr>
 			<tr>
